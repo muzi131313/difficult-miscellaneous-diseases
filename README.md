@@ -14,7 +14,8 @@
 ## 脑梗的诱因
 
 - 糖尿病
-- 高血脂、高血压
+- 高血脂
+- 高血压
 - 冠心病
 - 体重超重(肥胖)
 - 喜食肥肉
@@ -26,6 +27,15 @@
 ````
 
 ## 治疗的药物有哪些?
+
+- [降脂抗栓(百度医学)](https://yixue.baidu.com/se?res_type=1&wd=%E9%99%8D%E8%84%82%E6%8A%97%E6%A0%93&sort=ref)
+	
+	- [激光血管外照射治疗脑梗塞的降脂抗栓研究(2006)](http://www.doc88.com/p-74181697398.html)
+	- [复方丹参滴丸对老年高脂血症患者降脂抗栓的作用(2003)](http://www.doc88.com/p-1354326047769.html)
+		- [睡前吃丹参片能起到抗栓溶栓降脂和防动脉硬化的作用吗?(百度拇指医生)](http://muzhi.baidu.com/question/500320842273245924.html)
+	- [蝮蛇抗栓酶的降脂作用](http://www.cnki.com.cn/Article/CJFDTotal-NJJB199503023.htm): 注射剂, 处方药, 用于脑血栓栓塞急性期及恢复期
+		- [注射用精制蝮蛇抗栓酶](https://baike.baidu.com/item/%E6%B3%A8%E5%B0%84%E7%94%A8%E7%B2%BE%E5%88%B6%E8%9D%AE%E8%9B%87%E6%8A%97%E6%A0%93%E9%85%B6/10081040)
+		- [蝮蛇抗栓酶](https://baike.baidu.com/item/%E8%9D%AE%E8%9B%87%E6%8A%97%E6%A0%93%E9%85%B6/4464637?fr=aladdin)
 
 - [抗凝血药(百度百科)](https://baike.baidu.com/item/%E6%8A%97%E5%87%9D%E8%A1%80%E8%8D%AF)
 	
@@ -42,6 +52,9 @@
     > 1.原料产地为云南  
     > 2.天麻素具有较好的镇静和安眠作用，对神经衰弱、失眠、头痛症状有缓解作用  
     > 3.中药天麻可治疗痛眩晕、肢体麻木、惊痛抽搐
+
+- [三七粉](https://baike.baidu.com/item/%E4%B8%89%E4%B8%83%E7%B2%89/6038480?fr=aladdin): 和灵芝搭配，有治疗糖尿病和心血管的作用
+	- [三七粉的正确吃法](https://jingyan.baidu.com/article/7f41ececd7d162593c095c4f.html): 扩张血管、降低血压、降血脂、降血糖以及治疗脑动脉硬化
     
 - [治疗脑梗比较有效的药(知乎)](https://www.zhihu.com/question/21024803/answer/127751999)
 		
@@ -57,9 +70,17 @@
 	
 - [预防中风的药物哪种好副作用小？](https://baike.baidu.com/tashuo/browse/content?id=3e534ed05ac64546fa5428ac&lemmaId=&fromLemmaModule=pcBottom)
 
+## 自我锻炼
+
+- 二级以上医院国家规定的都设立康复科
+
 ## 病友/亲属的经历
 
 - [脑梗塞出院病人要通过那些具体方式恢复到最好的水平？(知乎)](https://www.zhihu.com/question/26786314/answer/365292203)
+
+## 网上药店推荐
+
+- [网上有什么比较可靠的药店？(知乎)](https://www.zhihu.com/question/39933453)
 
 ## 相关书籍
 
