@@ -19,6 +19,15 @@
 - 冠心病
 - 体重超重(肥胖)
 - 喜食肥肉
+- [为什么现在脑梗塞患者越来越多？医院是这样解释的](http://baijiahao.baidu.com/s?id=1597059316456021161&wfr=spider&for=pc)
+
+## 脑梗病因确认
+
+- 脑梗分类：
+	- 出血性中风
+	- 脑梗塞
+- 脑梗检测方式:
+	- CT
 
 ## 脑梗病发的常见年纪段
 
@@ -55,7 +64,14 @@
 
 - [三七粉](https://baike.baidu.com/item/%E4%B8%89%E4%B8%83%E7%B2%89/6038480?fr=aladdin): 和灵芝搭配，有治疗糖尿病和心血管的作用
 	- [三七粉的正确吃法](https://jingyan.baidu.com/article/7f41ececd7d162593c095c4f.html): 扩张血管、降低血压、降血脂、降血糖以及治疗脑动脉硬化
-    
+	- [老中医降血脂、防三高的秘方！很灵！](http://www.360doc.com/content/17/0414/18/35854156_645617352.shtml):
+		- 原料：生山楂一斤、生三七一斤和生丹参一斤
+		- 方法：将他们洗净、晾干，研磨为粉末，建议用温水或者凉开水冲服用，每天早中晚各一杯。
+
+- [抗栓降脂胶囊辅助治疗76例恢复期脑梗死疗效分析](http://xueshu.baidu.com/s?wd=paperuri:(6fd05404aac66411a521cbf50c37f09a)&filter=sc_long_sign&sc_ks_para=q%3D%E6%8A%97%E6%A0%93%E9%99%8D%E8%84%82%E8%83%B6%E5%9B%8A%E8%BE%85%E5%8A%A9%E6%B2%BB%E7%96%9776%E4%BE%8B%E6%81%A2%E5%A4%8D%E6%9C%9F%E8%84%91%E6%A2%97%E6%AD%BB%E7%96%97%E6%95%88%E5%88%86%E6%9E%90&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=1389804342896667214)
+- [血栓通胶囊治疗急性脑梗死患者76例临床观察](http://xueshu.baidu.com/s?wd=paperuri%3A(cb211acc14f4a098fbe6c154df814493)&filter=sc_long_sign&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_ks_para=q%3D%E8%A1%80%E6%A0%93%E9%80%9A%E8%83%B6%E5%9B%8A%E6%B2%BB%E7%96%97%E6%80%A5%E6%80%A7%E8%84%91%E6%A2%97%E6%AD%BB%E6%82%A3%E8%80%8576%E4%BE%8B%E4%B8%B4%E5%BA%8A%E8%A7%82%E5%AF%9F)
+	- [血栓通胶囊(处方药)(百度百科)](https://baike.baidu.com/item/%E8%A1%80%E6%A0%93%E9%80%9A%E8%83%B6%E5%9B%8A/6369376?fr=aladdin)
+
 - [治疗脑梗比较有效的药(知乎)](https://www.zhihu.com/question/21024803/answer/127751999)
 		
 ## 饮食方式
@@ -67,6 +83,10 @@
 - 协助脑梗治疗
 	
 	> 姬松茸、芦笋的益生菌发酵液
+
+- 建议
+	
+	> 蔬菜、水果、低脂奶制品及总脂肪和饱和脂肪含量较低
 	
 - [预防中风的药物哪种好副作用小？](https://baike.baidu.com/tashuo/browse/content?id=3e534ed05ac64546fa5428ac&lemmaId=&fromLemmaModule=pcBottom)
 
