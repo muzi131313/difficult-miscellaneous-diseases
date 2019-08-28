@@ -116,3 +116,4 @@
 ## 参考资料
   - [肠道充气（嗳气；腹胀）的症状，体征和诊断](http://www.bjcy2y.com/field/article/1186.html)
   - [肚子一直胀气，应该怎么办？](https://med.sina.com/health/article_detail_101_2_5818.html)
+  - [吞气症](https://baike.baidu.com/item/%E5%90%9E%E6%B0%94%E7%97%87/1906461?fr=aladdin)
