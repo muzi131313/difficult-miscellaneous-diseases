@@ -113,6 +113,9 @@
   - 胃肠镜
   - 腹部彩超
   - CT等检查
+## 短时效果
+  - 饿狠了吃饭吃多腹胀、说话太多腹胀, 考虑如下姿势, 预计三分钟有效(短时策略, 最重要的还是锻炼身体)
+    ![615081567408071_.pic_hd.jpg](http://ww1.sinaimg.cn/large/8c4687a3ly1g6l76gwsdbj20hj0gqq7q.jpg)
 ## 参考资料
   - [肠道充气（嗳气；腹胀）的症状，体征和诊断](http://www.bjcy2y.com/field/article/1186.html)
   - [肚子一直胀气，应该怎么办？](https://med.sina.com/health/article_detail_101_2_5818.html)
