@@ -5,12 +5,13 @@
 - [脑梗塞(百度百科)](https://baike.baidu.com/item/%E8%84%91%E6%A2%97%E5%A1%9E): 脑梗死的旧称
 - [脑梗塞后遗症(百度百科)](https://baike.baidu.com/item/%E4%B8%AD%E9%A3%8E%E5%90%8E%E9%81%97%E7%97%87?fromtitle=%E8%84%91%E6%A2%97%E5%A1%9E%E5%90%8E%E9%81%97%E7%97%87&fromid=4192355)
 	- [出血性脑中风](): 早期死亡率很高
-	- [缺血性脑中风](): 脑梗死、脑血栓形成
+	- [缺血性脑中风](https://www.msdmanuals.com/zh/%E9%A6%96%E9%A1%B5/%E5%A4%A7%E8%84%91%E3%80%81%E8%84%8A%E9%AB%93%E5%8F%8A%E7%A5%9E%E7%BB%8F%E9%9A%9C%E7%A2%8D/%E8%84%91%E5%8D%92%E4%B8%AD-cva/%E7%BC%BA%E8%A1%80%E6%80%A7%E4%B8%AD%E9%A3%8E): 脑梗死、脑血栓形成
 
 	- 密切相关疾病:
 
 		> 糖尿病、肥胖、高血压、风湿性心脏病、心律失常、各种原因的脱水、各种动脉炎、休克、血压下降过快过大
 
+- [中风(医学百科)](http://www.a-hospital.com/w/%E4%B8%AD%E9%A3%8E)
 ## 脑梗的诱因
 
 - 糖尿病
@@ -69,6 +70,8 @@
 	    - [转：重磅炸弹药物之成功接力的阿哌沙班](http://xueqiu.com/6815845163/83883665)
 
 			> 在日本方面，主要是用于预防缺血性中风和非瓣膜性房颤患者的全身性栓塞
+
+## 中药相关
 - [天麻素(百度百科)](https://baike.baidu.com/item/%E5%A4%A9%E9%BA%BB%E7%B4%A0/6165166?fr=aladdin)
 
     > 1.原料产地为云南
@@ -86,11 +89,14 @@
 	- 结构以及应用
 		![juemingzifen.png](http://ww1.sinaimg.cn/large/8c4687a3ly1g71btkroiyj20rq11c13x.jpg)
 
+## 药用案例
 - [抗栓降脂胶囊辅助治疗76例恢复期脑梗死疗效分析](http://xueshu.baidu.com/s?wd=paperuri:(6fd05404aac66411a521cbf50c37f09a)&filter=sc_long_sign&sc_ks_para=q%3D%E6%8A%97%E6%A0%93%E9%99%8D%E8%84%82%E8%83%B6%E5%9B%8A%E8%BE%85%E5%8A%A9%E6%B2%BB%E7%96%9776%E4%BE%8B%E6%81%A2%E5%A4%8D%E6%9C%9F%E8%84%91%E6%A2%97%E6%AD%BB%E7%96%97%E6%95%88%E5%88%86%E6%9E%90&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=1389804342896667214)
 - [血栓通胶囊治疗急性脑梗死患者76例临床观察](http://xueshu.baidu.com/s?wd=paperuri%3A(cb211acc14f4a098fbe6c154df814493)&filter=sc_long_sign&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_ks_para=q%3D%E8%A1%80%E6%A0%93%E9%80%9A%E8%83%B6%E5%9B%8A%E6%B2%BB%E7%96%97%E6%80%A5%E6%80%A7%E8%84%91%E6%A2%97%E6%AD%BB%E6%82%A3%E8%80%8576%E4%BE%8B%E4%B8%B4%E5%BA%8A%E8%A7%82%E5%AF%9F)
 	- [血栓通胶囊(处方药)(百度百科)](https://baike.baidu.com/item/%E8%A1%80%E6%A0%93%E9%80%9A%E8%83%B6%E5%9B%8A/6369376?fr=aladdin)
 
+## 药相关资料
 - [治疗脑梗比较有效的药(知乎)](https://www.zhihu.com/question/21024803/answer/127751999)
+- [治疗中风和偏瘫的药品列表(未整理)](http://www.a-hospital.com/w/%E6%B2%BB%E7%96%97%E4%B8%AD%E9%A3%8E%E5%92%8C%E5%81%8F%E7%98%AB%E7%9A%84%E8%8D%AF%E5%93%81%E5%88%97%E8%A1%A8)
 
 ## 饮食方式
 
@@ -123,5 +129,10 @@
 ## 相关书籍
 
 - [《脑梗塞用药与配餐》](https://baike.baidu.com/item/%E8%84%91%E6%A2%97%E5%A1%9E%E7%94%A8%E8%8D%AF%E4%B8%8E%E9%85%8D%E9%A4%90)
+
+## 相关视频(未整理)
+
+- [卒中（中风) 的康复与预防](http://xidongv.com/lecture/485)
+- [脑血管病康复视频教程](http://xidongv.com/lecture/486)
 
 ##### 不断收集更新中...
