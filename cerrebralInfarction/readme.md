@@ -80,6 +80,11 @@
 	- [老中医降血脂、防三高的秘方！很灵！](http://www.360doc.com/content/17/0414/18/35854156_645617352.shtml):
 		- 原料：生山楂一斤、生三七一斤和生丹参一斤
 		- 方法：将他们洗净、晾干，研磨为粉末，建议用温水或者凉开水冲服用，每天早中晚各一杯。
+- [决明子粉](https://baike.baidu.com/item/%E5%86%B3%E6%98%8E%E5%AD%90%E7%B2%89): 清肝明目，润​肠通便，​调节​血压血脂
+	- [决明子(医学百科)](http://www.a-hospital.com/w/%E5%86%B3%E6%98%8E%E5%AD%90)
+	- [一种心脑血管保健茶以及制备方法](https://patents.google.com/patent/CN1062755C/zh)
+	- 结构以及应用
+		![juemingzifen.png](http://ww1.sinaimg.cn/large/8c4687a3ly1g71btkroiyj20rq11c13x.jpg)
 
 - [抗栓降脂胶囊辅助治疗76例恢复期脑梗死疗效分析](http://xueshu.baidu.com/s?wd=paperuri:(6fd05404aac66411a521cbf50c37f09a)&filter=sc_long_sign&sc_ks_para=q%3D%E6%8A%97%E6%A0%93%E9%99%8D%E8%84%82%E8%83%B6%E5%9B%8A%E8%BE%85%E5%8A%A9%E6%B2%BB%E7%96%9776%E4%BE%8B%E6%81%A2%E5%A4%8D%E6%9C%9F%E8%84%91%E6%A2%97%E6%AD%BB%E7%96%97%E6%95%88%E5%88%86%E6%9E%90&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_us=1389804342896667214)
 - [血栓通胶囊治疗急性脑梗死患者76例临床观察](http://xueshu.baidu.com/s?wd=paperuri%3A(cb211acc14f4a098fbe6c154df814493)&filter=sc_long_sign&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&sc_ks_para=q%3D%E8%A1%80%E6%A0%93%E9%80%9A%E8%83%B6%E5%9B%8A%E6%B2%BB%E7%96%97%E6%80%A5%E6%80%A7%E8%84%91%E6%A2%97%E6%AD%BB%E6%82%A3%E8%80%8576%E4%BE%8B%E4%B8%B4%E5%BA%8A%E8%A7%82%E5%AF%9F)
