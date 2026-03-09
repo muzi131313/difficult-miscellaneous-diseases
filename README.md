@@ -12,8 +12,13 @@
 
 ## 📋 目录
 
+### 🔍 症状查询
+- **[症状快速查询工具](symptom-checker.md)** 🔥 新增！按症状查找疾病
+
+---
+
 ### 脑神经系统
-- [脑梗](cerebral-infarction/README.md) ✅ 已完善
+- [脑梗](cerebral-infarction/README.md) ✅ 已完善（规范化重构）
 - 更多神经疾病：[神经系统疾病](nervous/)
 
 ### 消化系统
@@ -21,7 +26,9 @@
 - [便秘](digest/constipation.md) ✅ 已完善
 
 ### 心血管系统
-- [心血管疾病](cardiovascular/) 🆕 [待完善]
+- [高血压](cardiovascular/hypertension.md) ✅ 已完善
+- [冠心病](cardiovascular/coronary-artery-disease.md) ✅ 已完善
+- 更多心血管疾病：[心血管疾病](cardiovascular/)
 
 ### 呼吸系统
 - [呼吸系统疾病](respiratory/) 🆕 [待完善]
@@ -80,12 +87,60 @@
 
 ---
 
+---
+
+## 🚨 紧急症状速查
+
+### 立即拨打120的症状
+
+| 症状 | 可能疾病 | 详细文档 |
+|------|---------|---------|
+| 💔 剧烈胸痛，持续>15分钟 | 心肌梗死、冠心病 | [冠心病](cardiovascular/coronary-artery-disease.md) |
+| 🧠 面部歪斜、肢体无力 | 脑梗、脑出血 | [脑梗](cerebral-infarction/README.md) |
+| 🤯 突然剧烈头痛 | 脑出血、蛛网膜下腔出血 | [症状查询](symptom-checker.md) |
+| 😰 严重呼吸困难 | 哮喘、肺栓塞 | [症状查询](symptom-checker.md) |
+| 🩸 咯血、黑便 | 消化道出血 | [症状查询](symptom-checker.md) |
+| 🌡️ 高热伴意识模糊 | 严重感染 | [症状查询](symptom-checker.md) |
+
+> ⚠️ 出现以上任何症状，立即拨打120！时间就是生命。
+
+### 需要尽快就医的症状
+
+| 症状 | 可能疾病 | 详细文档 |
+|------|---------|---------|
+| 胸痛、心慌 | 高血压、心律失常 | [高血压](cardiovascular/hypertension.md) |
+| 头晕、头痛 | 高血压、偏头痛 | [高血压](cardiovascular/hypertension.md) |
+| 腹痛、腹胀 | 胃炎、肠梗阻 | [腹胀](digest/bloating.md) |
+| 便秘、排便困难 | 便秘、肠道肿瘤 | [便秘](digest/constipation.md) |
+| 体重明显下降 | 糖尿病、消化道肿瘤 | [症状查询](symptom-checker.md) |
+
+> 📚 更多症状分析，请查看：[症状快速查询工具](symptom-checker.md)
+
+---
+
+## 🔥 高发常见疾病
+
+### 心血管疾病（中国患者约2.9亿）
+1. **[高血压](cardiovascular/hypertension.md)** - 最常见，需长期控制 ✅
+2. **[冠心病](cardiovascular/coronary-artery-disease.md)** - 致死率最高的疾病之一 ✅
+
+### 脑血管疾病（中国患者约1300万）
+1. **[脑梗](cerebral-infarction/README.md)** - 致残率高，需及时救治 ✅
+
+### 消化系统疾病
+1. **[腹胀](digest/bloating.md)** - 常见症状，原因多样 ✅
+2. **[便秘](digest/constipation.md)** - 生活习惯相关，可预防 ✅
+
+---
+
 ## 📊 项目统计
 
-- 📁 已完成疾病分类：2 个
-- 📁 待完善疾病分类：5 个
-- 📄 已完成文档：3 个
-- 📄 待完善文档：30+ 个
+- 📁 已完成疾病分类：2 个（脑神经系统、消化系统）
+- 📁 部分完成分类：1 个（心血管系统：2个已完成）
+- 📁 待完善分类：4 个（呼吸、内分泌、神经、骨骼肌肉）
+- 📄 已完善文档：5 个（脑梗、腹胀、便秘、高血压、冠心病）
+- 📄 待完善文档：25+ 个
+- 🔥 症状查询工具：1 个（新增！）
 
 ---
 
