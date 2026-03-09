@@ -5,6 +5,31 @@
 > ⚠️ **重要提示**：本内容仅供科普参考，不能替代专业医疗建议。请阅读仓库中的[免责声明](../DISCLAIMER.md)了解更多详情。
 
 ---
+tags:
+  name: 冠心病
+  category: 心血管疾病
+  
+  severity: 重度
+  emergency: true
+  
+  commonness: 常见
+  onset: 可急可慢
+  
+  age-group: 中老年人
+  gender-preference: 男性
+  
+  system: 心血管系统
+  
+  treatment-surgery: true
+  treatment-medication: true
+  treatment-chronic: true
+  
+  prevention-level: 一级
+  
+  rehabilitation: true
+  
+  keywords: ["冠心病", "心绞痛", "心肌梗死", "冠状动脉", "心血管"]
+---
 
 **最后更新**：2026-03-09
 

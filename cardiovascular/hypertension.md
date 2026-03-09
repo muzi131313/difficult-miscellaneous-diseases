@@ -5,6 +5,31 @@
 > ⚠️ **重要提示**：本内容仅供科普参考，不能替代专业医疗建议。请阅读仓库中的[免责声明](../DISCLAIMER.md)了解更多详情。
 
 ---
+tags:
+  name: 高血压
+  category: 心血管疾病
+  
+  severity: 中度
+  emergency: false
+  
+  commonness: 高发
+  onset: 慢性
+  
+  age-group: 成年人
+  gender-preference: 无差异
+  
+  system: 心血管系统
+  
+  treatment-surgery: false
+  treatment-medication: true
+  treatment-chronic: true
+  
+  prevention-level: 一级
+  
+  rehabilitation: false
+  
+  keywords: ["高血压", "血压", "心血管", "卒中", "心肌梗死", "肾病"]
+---
 
 **最后更新**：2026-03-09
 

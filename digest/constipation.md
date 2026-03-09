@@ -7,6 +7,33 @@
 > 本内容仅供科普参考，不能替代专业医疗建议。如有严重便秘症状，请咨询医生。
 
 ---
+tags:
+  name: 便秘
+  category: 消化系统疾病
+  
+  severity: 轻度
+  emergency: false
+  
+  commonness: 常见
+  onset: 可急可慢
+  
+  age-group: 全年龄段
+  gender-preference: 无差异
+  
+  system: 消化系统
+  
+  treatment-surgery: false
+  treatment-medication: true
+  treatment-chronic: false
+  
+  prevention-level: 一级
+  
+  rehabilitation: false
+  
+  keywords: ["便秘", "排便困难", "肠道健康", "膳食纤维", "腹胀"]
+---
+
+**最后更新**：2026-03-09
 
 ## 认识便秘
 
